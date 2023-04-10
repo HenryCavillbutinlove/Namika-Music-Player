@@ -24,7 +24,7 @@ const music_list = [
     {
         img : 'images/img1.jpg',
         name : 'Sweet',
-        artist : 'Ciggeretes After Sex',
+        artist : 'Cigarettes After Sex',
         music : 'music/sweet.mp3'
     },
     {
