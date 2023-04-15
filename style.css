@@ -147,7 +147,7 @@ body {
         color: black;
     }
     .rotate {
-        animation: rotation 20s infinite linear;
+        animation: rotation 40s infinite linear;
     }
     @keyframes rotation {
         from {
